@@ -10,7 +10,7 @@ This repository contains the code related to the deep learning session which we 
     CNN.ipynb and dataset need to be downloaded from this link: https://www.kaggle.com/c/dogs-vs-cats
     
     
-Author Details: Ashish Dubey: > Email: ashish.dubey2007@gmail.com > Linked: linkedin.com/in/ashish-dubey-603a74103/
+Author Details: Ashish Dubey: > Email: ashish.dubey2007@gmail.com > Linked: linkedin.com/in/hereisashish/
 
 Jitendra Dubey: > Email : jitendradueby@gmail.com
 
